@@ -36,7 +36,9 @@ _<h4>Towards Personalized Fashion Styling via Hierarchical Negative Feedback</h4
 * [2025/08/14] We release our code on Github.
 
 
-## Installation
+## Set-up
+
+### Set up base environment
 
 ``` bash
 conda create -n styletailor python=3.10
@@ -46,8 +48,31 @@ pip install -r requirements.txt
 
 ``` bash
 conda create -n styletailor_eval python=3.10
-pip install pyiqa
+cd /code/eval
+pip install -r requirements.txt
 ```
+
+### Downloading Weights
+
+Downloading the humanparsing and openpose weights from this 🤗 [Hugging Face link](https://huggingface.co/levihsu/OOTDiffusion)
+
+### Set up API Key
+
+- Select the platform from which you want to call the API (e.g., Qwen, OpenRouter).
+
+- Apply for an API key following the instructions on their website.
+
+- Write the API key to your environment variables.
+
+### Set up Google Search Engine
+
+- Create your own project in Google Cloud, and within that project, request an API key and simultaneously enable the Custom Search API service.
+
+- Create and configure your Programmable Search Engine and remember your custom ID.
+
+- For more detailed information, please refer to this [document](https://developers.google.com/custom-search/v1/overview#search_engine_id).
+
+
 
 ## Inference
 
@@ -55,6 +80,8 @@ pip install pyiqa
 conda activate styletailor
 python pipeline.py
 ```
+
+## Eval
 
 ```bash
 conda activate styletailor_eval
