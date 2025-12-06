@@ -61,3 +61,16 @@ conda activate styletailor_eval
 cd /code/utils
 python eval.py
 ```
+
+## Citation
+```bibtex
+@misc{ma2025styletailorpersonalizedfashionstyling,
+      title={StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback}, 
+      author={Hongbo Ma and Fei Shen and Hongbin Xu and Xiaoce Wang and Gang Xu and Jinkai Zheng and Liangqiong Qu and Ming Li},
+      year={2025},
+      eprint={2508.06555},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.06555}, 
+}
+```
