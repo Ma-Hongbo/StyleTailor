@@ -21,13 +21,20 @@ _<h4>Towards Personalized Fashion Styling via Hierarchical Negative Feedback</h4
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: center;">
-    <a href='https://arxiv.org/abs/2508.06555'><img src='https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red'></a>
+    <a href='https://arxiv.org/abs/2508.06555'><img src='https://img.shields.io/badge/arxiv-2508.06555-b31b1b?logo=arxiv&logoColor=red'></a>
     <a href='https://ma-hongbo.github.io/StyleTailor.github.io/'><img src='https://img.shields.io/badge/Styletailor-Website-green?logo=googlechrome&logoColor=green'></a>
 </div>
 
 > ##### [Hongbo Ma](https://ma-hongbo.github.io/), [Fei Shen](https://muzishen.github.io/), [Hongbin Xu](), [Xiaoce Wang](https://zephinuecode.github.io/resume/), [Gang Xu](), [Jinkai Zheng](), [Liangqiong Qu](), [Ming Li](https://ming1993li.github.io/)
 
 </div>
+
+![image](./assets/overview.png)
+## News
+* [2025/11/07] Our [paper] is accepted by AAAI-26 and selected as Oral 🎉!
+* [2025/08/06] Our [paper](https://arxiv.org/abs/2508.06555) is available on arXiv.
+* [2025/08/14] We release our code on Github.
+
 
 ## Installation
 
