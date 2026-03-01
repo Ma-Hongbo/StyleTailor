@@ -31,7 +31,7 @@ _<h4>Towards Personalized Fashion Styling via Hierarchical Negative Feedback</h4
 
 ![image](./assets/overview.png)
 ## News
-* [2025/11/07] Our [paper] is accepted by AAAI-26 and selected as Oral 🎉!
+* [2025/11/07] Our [paper](https://arxiv.org/abs/2508.06555) is accepted by AAAI-26 and selected as Oral 🎉!
 * [2025/08/06] Our [paper](https://arxiv.org/abs/2508.06555) is available on arXiv.
 * [2025/08/14] We release our code on Github.
 
